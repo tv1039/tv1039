@@ -1,13 +1,26 @@
-###Seungpyo Hong
+# Seungpyo Hong
 
 
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- HTML,CSS,javascript,swift
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tv1039&show_icons=true&theme=tokyonight)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 📫 How to reach me...
+- instagram: winticket__1007
