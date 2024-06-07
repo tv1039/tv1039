@@ -9,16 +9,16 @@
 </p>
 
 ### 🔗 Connect with me
-<a href="mailto:tmdvy1039@gmail.com">
+<a href="mailto:tmdvy1039@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge?style=social&logo=Gmail&logoColor=white">
 </a>
-<a href="">
+<a href=""mailto:tmdvy1039@naver.com"" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge?style=social&logo=Naver&logoColor=white">
 </a>
-<a href="">
+<a href="https://velog.io/@messeung/posts" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge?style=social&logo=Velog&logoColor=white">
 </a>
-<a href="">
+<a href="https://www.linkedin.com/in/seungpyo-hong-5298a0254/" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge?style=social&logo=Linkedin&logoColor=white">
 </a>
 
