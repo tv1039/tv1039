@@ -12,7 +12,7 @@
 <a href="mailto:tmdvy1039@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge?style=social&logo=Gmail&logoColor=white">
 </a>
-<a href=""mailto:tmdvy1039@naver.com"" style="text-decoration: none;">
+<a href="mailto:tmdvy1039@naver.com" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge?style=social&logo=Naver&logoColor=white">
 </a>
 <a href="https://velog.io/@messeung/posts" style="text-decoration: none;">
