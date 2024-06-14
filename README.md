@@ -13,6 +13,15 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge?style=social&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge?style=social&logo=JavaScript&logoColor=white">
 </p>
+<p>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge?style=social&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge?style=social&logo=jquery&logoColor=white">
+</p>
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge?style=social&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge?style=social&logo=github&logoColor=white">
+</p>
+
 
 ### 🔗 Connect with me
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge?style=social&logo=Gmail&logoColor=white)](mailto:tmdvy1039@gmail.com)
