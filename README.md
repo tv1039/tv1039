@@ -8,19 +8,11 @@
 <br>
 
 ### 🎯Project
-#### iOS App Project
 - [BookBillionaire](https://github.com/tv1039/BookBillionaire) `앱 스토어 출시`
-  - 책을 사랑하는 사용자들이 도서 구매 부담을 줄이며 소유한 책을 공유하고 다양한 도서를 경험할 수 있는 앱입니다.
 - [SWEG](https://github.com/tv1039/SwiftUI-Prototype-SWEG)
-  - 공과금에 대한 조회 및 납부를 하나의 앱에서 쉽게 관리하게 하고자 기획하게 된 `SwiftUI` 기반의 프로토타입 앱입니다.
 - [맛집에서 맛나](https://github.com/tv1039/UIKit-Prototype-LAB2)
-  - 사용자들이 맛집을 찾고 공유하며 그 경험을 나눌 수 있는 경험을 제공하고자 기획하게 된 `UIKit` 기반의 프로토타입 앱입니다.
-
-#### iOS AR/VR Project
 - [ARRealityObjectScan](https://github.com/tv1039/ARRealityObjectScan)
-    - 실시간으로 사물을 스캔하고 `CoreML`을 이용해 딥 러닝을 통해 분석한 데이터를 기반으로, 해당 사물의 입체 모델과 데이터를 제공하는 증강현실 앱입니다.
 - [RealityModelerAR](https://github.com/tv1039/RealityModelerAR)
-    - `ARKit`과 `RealityKit`을 활용하여 3D 모델을 실제 환경에 배치하는 앱입니다.
 
 <br>
 
