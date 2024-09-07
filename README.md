@@ -8,7 +8,7 @@
 <br>
 
 ### 🎯Project
-- [BookBillionaire](https://github.com/tv1039/BookBillionaire) `앱 스토어 출시`
+- [BookBillionaire](https://github.com/tv1039/BookBillionaire)
 - [SWEG](https://github.com/tv1039/SwiftUI-Prototype-SWEG)
 - [맛집에서 맛나](https://github.com/tv1039/UIKit-Prototype-LAB2)
 - [ARRealityObjectScan](https://github.com/tv1039/ARRealityObjectScan)
