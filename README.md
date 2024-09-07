@@ -18,7 +18,7 @@
 
 ### 🛠️ Tech Stack
 <p>
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge?style=social&logo=Dart&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge?style=social&logo=Dart&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge?style=social&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge?style=social&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge?style=social&logo=CSS3&logoColor=white">
