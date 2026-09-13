@@ -6,7 +6,7 @@
 ![github-user-contribution](https://github.com/hankbae93/hankbae93/assets/77097180/7475d952-e37b-4013-8d24-815f0c4226b5)
 
 
-<br>
+<!-- <br>
 
 ### 🛠️ Tech Stack
 <p>
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge?style=social&logo=github&logoColor=white">
 </p>
 
-<br>
+<br> -->
 
 ### 🔗 Connect with me
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge?style=social&logo=Gmail&logoColor=white)](mailto:tmdvy1039@gmail.com)
