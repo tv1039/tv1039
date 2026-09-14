@@ -1,4 +1,4 @@
-# Seungpyo Hong 👋
+# Seungpyo Hong
 
 ### I'm an App developer seeking diverse and attractive developments
 
